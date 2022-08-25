@@ -21,3 +21,4 @@ attack.mitre.org/*
 www.virustotal.com/*
 d3fend.mitre.org/*
 www.joesandbox.com/*
+https://github.com/splunk/security_content/*
