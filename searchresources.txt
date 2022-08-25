@@ -3,7 +3,6 @@ lolbas-project.github.io/*
 *.filesec.io/*
 *.malapi.io/*
 *.lots-project.com/*
-docs.microsoft.com/*
 github.com/Neo23x0/signature-base/blob/master/*
 evids.dfir.tips/*
 winprocs.dfir.tips/*
